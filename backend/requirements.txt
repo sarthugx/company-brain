@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+FalkorDB==1.7.1
+openai==3.29.0
+python-dotenv==1.2.4
+pydantic>=2.0,<3.0
